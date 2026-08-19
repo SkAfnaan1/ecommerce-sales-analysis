@@ -4,7 +4,7 @@
 
 This project is an interactive **Power BI dashboard** created to analyze Super Store sales data and generate meaningful business insights.
 
-The dashboard helps understand sales performance, profitability, product categories, customer segments, and regional performance through interactive visualizations and KPIs.
+The dashboard helps understand sales performance, profitability, product categories, customer segments, payment modes, and regional performance through interactive visualizations and KPIs.
 
 ## 🎯 Objectives
 
@@ -12,6 +12,7 @@ The dashboard helps understand sales performance, profitability, product categor
 * Identify top-performing products and categories
 * Analyze sales across different regions
 * Understand customer segment performance
+* Analyze different payment modes
 * Track sales and profit trends over time
 * Create an interactive and user-friendly Power BI dashboard
 * Generate actionable business insights from raw sales data
@@ -50,6 +51,7 @@ The dashboard helps understand sales performance, profitability, product categor
 * Category-wise sales
 * Sub-category performance
 * Product performance
+* Sales by payment mode
 
 ### Customer Analysis
 
@@ -66,7 +68,19 @@ The dashboard helps understand sales performance, profitability, product categor
 
 ### Main Dashboard
 
-![Super Store Sales Dashboard](images/dashboard.png)
+![Dashboard Overview](images/Dashboard_Overview.png)
+
+### Sales by Category
+
+![Sales by Category](images/Sales_by_category.png)
+
+### Sales by Payment Mode
+
+![Sales by Payment Mode](images/Sales_by_paymentmode.png)
+
+### Sales by Segment
+
+![Sales by Segment](images/Sales_by_segment.png)
 
 ## 💡 Key Insights
 
@@ -76,6 +90,7 @@ The dashboard can be used to identify:
 * Profitable and underperforming segments
 * Regional sales patterns
 * Sales trends over time
+* Popular payment modes
 * Products contributing significantly to overall revenue
 * Areas where business performance can be improved
 
@@ -85,13 +100,14 @@ The dashboard can be used to identify:
 Super-Store-Sales-Analysis/
 │
 ├── images/
-│   └── dashboard.png
+│   ├── Dashboard_Overview.png
+│   ├── Sales_by_category.png
+│   ├── Sales_by_paymentmode.png
+│   └── Sales_by_segment.png
 │
 ├── Super Store Sales Analysis.pbix
 │
 └── README.md
-```
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file from this repository.
