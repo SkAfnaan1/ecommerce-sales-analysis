@@ -1,4 +1,3 @@
-```markdown
 # Super Store Sales Analysis Dashboard 📊
 
 ## 📌 Project Overview
@@ -109,15 +108,32 @@ Super-Store-Sales-Analysis/
 ├── Super Store Sales Analysis.pbix
 │
 └── README.md
-🚀 How to Use
-Download the .pbix file from this repository.
-Open it using Microsoft Power BI Desktop.
-Interact with the dashboard using the available filters and slicers.
-👨‍💻 Author
+```
 
-Afnaan Shaik
+## 🚀 How to Use
+
+1. Download the `.pbix` file from this repository.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Interact with the dashboard using the available filters and slicers.
+4. Explore the visualizations to understand sales, profit, customer, product, and regional performance.
+
+## 🔗 Project Links
+
+* **GitHub Repository:** https://github.com/SkAfnaan1/ecommerce-sales-analysis
+* **GitHub Profile:** https://github.com/SkAfnaan1
+* **LinkedIn Profile:** https://www.linkedin.com/in/afnaanshaik27/
+
+## 👨‍💻 Author
+
+**Afnaan Shaik**
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-GitHub: SkAfnaan1
-LinkedIn: Afnaan Shaik
+### Connect with Me
+
+* 🔗 **GitHub:** https://github.com/SkAfnaan1
+* 💼 **LinkedIn:** https://www.linkedin.com/in/afnaanshaik27/
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
